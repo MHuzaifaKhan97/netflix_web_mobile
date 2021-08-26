@@ -1,1 +1,1 @@
-# Netflix Web Responsive UI
+# Netflix Web App Responsive UI
