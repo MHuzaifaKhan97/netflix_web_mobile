@@ -1,1 +1,1 @@
-# Netflix Web UI Design:
+# Netflix Web App UI Design:
